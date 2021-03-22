@@ -10,7 +10,7 @@ It is recommended that you run these notebooks locally rather than via a cloud s
 
 Please report suggestions or errors at:
 
-https://github.com/CambridgeEngineering/PartIA-Mechanics/issues
+https://github.com/torebutlin/PartIIA-3C6/issues
 
 ## Author
 
